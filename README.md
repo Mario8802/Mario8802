@@ -7,3 +7,4 @@ I'm a passionate learner interested in Artificial Intelligence, Cybersecurity, D
 👀 I'm eager to collaborate on beginners to intermediate Python projects.
 
 📫 You can reach me via [Instagram](https://www.instagram.com/mario880209/).
+ 
