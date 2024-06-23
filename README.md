@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-Greetings! I am Mario Koshnicharov, a dedicated software engineer with a strong focus on Python and PostgreSQL. My journey in software development is driven by a passion for learning and tackling complex problems. Below, you'll find a showcase of my projects, course completions, and certifications from SoftUni.
+Greetings! I am Mario, a dedicated software engineer with a strong focus on Python. My journey in software development is driven by a passion for learning and tackling complex problems. Below, you'll find a showcase of my projects, course completions, and certifications from SoftUni.
 
 ## 📚 Python Courses Completed at SoftUni
 
