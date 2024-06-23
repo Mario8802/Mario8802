@@ -8,17 +8,16 @@ Greetings! I am Mario, a dedicated software engineer with a strong focus on Pyth
 
 ## 🛠 Technologies & Tools
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🌐 Connect with Me
 
-- Facebook: [Mario](https://www.facebook.com/profile.php?id=100002633140775) 
+- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100002633140775)
+
 ## 📈 GitHub Stats
 
 ![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario8802&theme=transparent&show_icons=true&count_private=true)
-
 
 ## 📜 Certificates
 
@@ -29,4 +28,3 @@ Greetings! I am Mario, a dedicated software engineer with a strong focus on Pyth
 | <a href="https://softuni.bg/trainings/4370/python-advanced-january-2024" style="color:#3572A5;">Advanced</a>                                   | <a href="https://softuni.bg/certificates/details/203735/824e9431" style="color:#FFD43B;"> Link </a> |
 | <a href="https://softuni.bg/trainings/3964/python-oop-february-2023" style="color:#3572A5;">OOP</a>                                               | <a href="https://softuni.bg/certificates/details/211544/0cc2562a" style="color:#FFD43B;"> Link </a> |
 | <a href="https://softuni.bg/trainings/4536/postgresql-may-2024" style="color:#3572A5;">PostgreSQL</a>                                         | <a href="https://softuni.bg/certificates/details/216977/9f479593" style="color:#FFD43B;"> Link </a> |
-
