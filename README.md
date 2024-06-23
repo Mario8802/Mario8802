@@ -1,4 +1,4 @@
-# Welcome to Mario Koshnicharov's GitHub Repository! 🚀
+# Welcome to Mario's GitHub Repository! 🚀
 
 <img src="https://www.unite.ai/wp-content/uploads/2020/12/Python-Certifications.webp" width="100%"/>
 
