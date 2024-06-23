@@ -1,14 +1,14 @@
-# Welcome to Mario's GitHub Repository! 🚀
+# Welcome to Mario Koshnicharov's GitHub Repository! 🚀
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:552586,100:a82da8&height=300&section=header&text=SoftUni&fontSize=90&fontAlignY=25&desc=Python%20Courses&descSize=60&descAlignY=50](https://www.unite.ai/wp-content/uploads/2020/12/Python-Certifications.webp)"/>
+<img src="https://www.unite.ai/wp-content/uploads/2020/12/Python-Certifications.webp" width="100%"/>
 
 ## 👋 About Me
 
-Hi! I'm Mario Koshnicharov, a passionate software engineer specializing in Python and PostgreSQL. I love exploring new technologies and solving challenging problems. Here you can find my projects, course completions, and certifications from SoftUni.
+Greetings! I am Mario Koshnicharov, a dedicated software engineer with a strong focus on Python and PostgreSQL. My journey in software development is driven by a passion for learning and tackling complex problems. Below, you'll find a showcase of my projects, course completions, and certifications from SoftUni.
 
-## 📚 Courses Completed at SoftUni
+## 📚 Python Courses Completed at SoftUni
 
-*Here you can find problem solutions from the following lectures:*
+Explore the solutions to problems from various Python courses I have attended:
 
 ***
 
@@ -75,16 +75,16 @@ Hi! I'm Mario Koshnicharov, a passionate software engineer specializing in Pytho
 | **Repository** | **Description** | **Last Updated** |
 | --- | --- | --- |
 | [**Learning-PostgreSQL**](https://github.com/Mario8802/Learning-PostgreSQL) | PLpgSQL | Updated 2 hours ago |
-| [**python_OOP**](https://github.com/Mario8802/python_OOP) | Understand the OOP paradigm, Creating a hierarchy of classes and inheritance, SOLID Principles, Working with Iterators and Generators, Applying the OOP principles, Component testing | Updated 2 days ago |
+| [**python_OOP**](https://github.com/Mario8802/python_OOP) | Understanding the OOP paradigm, Creating a hierarchy of classes and inheritance, SOLID Principles, Working with Iterators and Generators, Applying OOP principles, Component testing | Updated 2 days ago |
 | [**Python-ORM-2024**](https://github.com/Mario8802/Python-ORM-2024) | Forked from DiyanKalaydzhiev23/Python-ORM-2024 | Updated 3 days ago |
-| [**Python_ORM**](https://github.com/Mario8802/Python_ORM) | This repository contains materials and exercises for the Python ORM Course by SoftUni. The course covers the basics and advanced concepts of ORM with a focus on Django and an exploration of SQLAlchemy. | Updated 3 days ago |
+| [**Python_ORM**](https://github.com/Mario8802/Python_ORM) | Materials and exercises for the Python ORM Course by SoftUni, covering basics and advanced ORM concepts with a focus on Django and SQLAlchemy | Updated 3 days ago |
 | [**PostgreSQL**](https://github.com/Mario8802/PostgreSQL) | Forked from DiyanKalaydzhiev23/PostgreSQL | Updated 5 days ago |
-| [**Mario8802**](https://github.com/Mario8802/Mario8802) | Config files for my GitHub profile. | Updated last week |
-| [**python_advanced**](https://github.com/Mario8802/python_advanced) | Python | Updated last week |
-| [**python_fundamentals**](https://github.com/Mario8802/python_fundamentals) | Python | Updated on May 11 |
+| [**Mario8802**](https://github.com/Mario8802/Mario8802) | Configuration files for my GitHub profile | Updated last week |
+| [**python_advanced**](https://github.com/Mario8802/python_advanced) | Advanced Python concepts | Updated last week |
+| [**python_fundamentals**](https://github.com/Mario8802/python_fundamentals) | Python fundamentals | Updated on May 11 |
 | [**python-fundamentals-01-2024**](https://github.com/Mario8802/python-fundamentals-01-2024) | Forked from gbulle7/python-fundamentals-01-2024 | Updated on Apr 22 |
 | [**MonkeyType**](https://github.com/Mario8802/MonkeyType) | Forked from Instagram/MonkeyType. A Python library that generates static type annotations by collecting runtime types | Updated on Apr 18 |
-| [**python_basic**](https://github.com/Mario8802/python_basic) | Python | Updated on Apr 7 |
+| [**python_basic**](https://github.com/Mario8802/python_basic) | Basic Python projects and exercises | Updated on Apr 7 |
 | [**advanced2024Jan**](https://github.com/Mario8802/advanced2024Jan) | Forked from InesIvanova/advanced2024Jan | Updated on Apr 6 |
 | [**Python-OOP-2024**](https://github.com/Mario8802/Python-OOP-2024) | Forked from DiyanKalaydzhiev23/Python-OOP-2024 | Updated on Apr 2 |
 | [**patma**](https://github.com/Mario8802/patma) | Forked from gvanrossum/patma. Pattern Matching | Updated on Mar 12 |
@@ -104,8 +104,12 @@ Hi! I'm Mario Koshnicharov, a passionate software engineer specializing in Pytho
 ## 🌐 Connect with Me
 
 - GitHub: [Mario8802](https://github.com/Mario8802)
-- 📫 You can reach me via [Facebook](https://www.facebook.com/?stype=lo&deoia=1&jlou=AfeCDwbwcHOjm4HqSlkh1c85nhsbpaHckSzXQKiDXp0W64HbkEe20jyyv-J6ZfZVejE9Mltn2ZjdDF2Wdrf8T4L7eeULnpMcmfH5v2ivY1DUiA&smuh=34793&lh=Ac8rirw29nJlez2KPiQ#_=_).
+- LinkedIn: [Mario Koshnicharov](#)
 
 ## 🛠 Technologies & Tools
 
-- ![Python](https://img.shields.io/badge/Python
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
