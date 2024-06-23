@@ -1,6 +1,6 @@
 # Welcome to Mario's GitHub Repository! 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:552586,100:a82da8&height=300&section=header&text=SoftUni&fontSize=90&fontAlignY=25&desc=Python%20Courses&descSize=60&descAlignY=50"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:552586,100:a82da8&height=300&section=header&text=SoftUni&fontSize=90&fontAlignY=25&desc=Python%20Courses&descSize=60&descAlignY=50](https://www.unite.ai/wp-content/uploads/2020/12/Python-Certifications.webp)"/>
 
 ## 👋 About Me
 
