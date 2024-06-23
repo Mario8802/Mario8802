@@ -1,6 +1,6 @@
 # Welcome to Mario's GitHub Repository! 🚀
 
-<img src="https://as2.ftcdn.net/v2/jpg/07/15/30/41/1000_F_715304125_QITyCbYHzy8dzkqoSYSHswMxTonCvp5x.jpg" width="100%"/>
+<img src="https://bairesdev.mo.cloudinary.net/blog/2023/06/Is-Python-good-for-software-development.jpg?tx=w_1024,q_auto"/>
 
 ## 👋 About Me
 
