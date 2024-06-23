@@ -104,7 +104,7 @@ Explore the solutions to problems from various Python courses I have attended:
 ## 🌐 Connect with Me
 
 - GitHub: [Mario8802](https://github.com/Mario8802)
-- Facebook: [Mario Koshnicharov](https://www.facebook.com/profile.php?id=100002633140775)
+- Facebook: [Mario](https://www.facebook.com/profile.php?id=100002633140775)
 
 ## 🛠 Technologies & Tools
 
