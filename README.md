@@ -20,7 +20,6 @@ Greetings! I am Mario, a dedicated software engineer with a strong focus on Pyth
 
 ## 🌐 Connect with Me
 
-- GitHub: [Mario8802](https://github.com/Mario8802)
 - Facebook: [Mario](https://www.facebook.com/profile.php?id=100002633140775)
 
 ## 🛠 Technologies & Tools
