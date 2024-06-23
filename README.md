@@ -15,36 +15,16 @@ Greetings! I am Mario, a dedicated software engineer with a strong focus on Pyth
 
 - Facebook: [Mario](https://www.facebook.com/profile.php?id=100002633140775)
 
-## 📜 Certificates and GitHub Stats
+## 📜 Certificates
 
-<div style="display: flex; flex-wrap: wrap;">
-  <table style="flex: 1;">
-    <tr>
-      <th> **Course** </th>
-      <th> **Link** </th>
-    </tr>
-    <tr>
-      <td><a href="https://softuni.bg/trainings/4162/programming-basics-with-python-july-2023" style="color:#3572A5;">Programming Basics</a></td>
-      <td><a href="https://softuni.bg/certificates/details/182548/dd8a2d31" style="color:#FFD43B;"> Link </a></td>
-    </tr>
-    <tr>
-      <td><a href="https://softuni.bg/trainings/4222/programming-fundamentals-with-python-september-2023" style="color:#3572A5;">Fundamentals</a></td>
-      <td><a href="https://softuni.bg/certificates/details/194594/fa095f11" style="color:#FFD43B;"> Link </a></td>
-    </tr>
-    <tr>
-      <td><a href="https://softuni.bg/trainings/4370/python-advanced-january-2024" style="color:#3572A5;">Advanced</a></td>
-      <td><a href="https://softuni.bg/certificates/details/203735/824e9431" style="color:#FFD43B;"> Link </a></td>
-    </tr>
-    <tr>
-      <td><a href="https://softuni.bg/trainings/3964/python-oop-february-2023" style="color:#3572A5;">OOP</a></td>
-      <td><a href="https://softuni.bg/certificates/details/211544/0cc2562a" style="color:#FFD43B;"> Link </a></td>
-    </tr>
-    <tr>
-      <td><a href="https://softuni.bg/trainings/4536/postgresql-may-2024" style="color:#3572A5;">PostgreSQL</a></td>
-      <td><a href="https://softuni.bg/certificates/details/216977/9f479593" style="color:#FFD43B;"> Link </a></td>
-    </tr>
-  </table>
-  <div style="flex: 1; text-align: center;">
-    ![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario8802&theme=transparent&show_icons=true&count_private=true)
-  </div>
-</div>
+| **Course**                                                                                                                | **Link**                                                   |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4162/programming-basics-with-python-july-2023" style="color:#3572A5;">Programming Basics</a>          | <a href="https://softuni.bg/certificates/details/182548/dd8a2d31" style="color:#FFD43B;"> Link </a> |
+| <a href="https://softuni.bg/trainings/4222/programming-fundamentals-with-python-september-2023" style="color:#3572A5;">Fundamentals</a>               | <a href="https://softuni.bg/certificates/details/194594/fa095f11" style="color:#FFD43B;"> Link </a> |
+| <a href="https://softuni.bg/trainings/4370/python-advanced-january-2024" style="color:#3572A5;">Advanced</a>                                   | <a href="https://softuni.bg/certificates/details/203735/824e9431" style="color:#FFD43B;"> Link </a> |
+| <a href="https://softuni.bg/trainings/3964/python-oop-february-2023" style="color:#3572A5;">OOP</a>                                               | <a href="https://softuni.bg/certificates/details/211544/0cc2562a" style="color:#FFD43B;"> Link </a> |
+| <a href="https://softuni.bg/trainings/4536/postgresql-may-2024" style="color:#3572A5;">PostgreSQL</a>                                         | <a href="https://softuni.bg/certificates/details/216977/9f479593" style="color:#FFD43B;"> Link </a> |
+
+## 📈 GitHub Stats
+
+![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario8802&theme=transparent&show_icons=true&count_private=true)
