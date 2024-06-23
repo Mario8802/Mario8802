@@ -27,4 +27,4 @@ Greetings! I am Mario, a dedicated software engineer with a strong focus on Pyth
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-
+
