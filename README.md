@@ -2,7 +2,7 @@
  
 <img src="https://bairesdev.mo.cloudinary.net/blog/2023/06/Is-Python-good-for-software-development.jpg?tx=w_1024,q_auto"/> 
 
-## 👋 About Me
+## 👋 About Me 
 
 Greetings! I am Mario, a dedicated software engineer with a strong focus on Python. My journey in software development is driven by a passion for learning and tackling complex problems. Below, you'll find a showcase of my projects, course completions, and certifications from SoftUni.
 
