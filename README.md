@@ -4,7 +4,7 @@
 
 ## 👋 About Me 
 
-Hello! I'm **Mario**, a passionate **software engineer** with a knack for problem-solving and writing efficient code. My focus is primarily on **Python** and **PostgreSQL**, and I love contributing to exciting projects. I'm constantly learning, growing, and sharing knowledge.
+Hello! I'm **Mario**, a passionate **software engineer** with a knack for problem-solving and writing efficient code. My focus is primarily on **Python**. I'm constantly learning, growing, and sharing knowledge.
 
 ---
 
