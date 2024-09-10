@@ -1,6 +1,6 @@
 # Welcome to Mario's GitHub Repository! 🚀
 
-<img src="https://bairesdev.mo.cloudinary.net/blog/2023/06/Is-Python-good-for-software-development.jpg?tx=w_1024,q_auto"/>  
+<img src="https://i.imgur.com/INigeRD.png" alt="Futuristic Software Development Banner" width="800"/>
 
 ## 👋 About Me 
 
