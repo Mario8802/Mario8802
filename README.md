@@ -1,10 +1,10 @@
 # Welcome to Mario's GitHub Repository! 🚀
- 
-<img src="https://bairesdev.mo.cloudinary.net/blog/2023/06/Is-Python-good-for-software-development.jpg?tx=w_1024,q_auto" alt="Python Developer Banner" width="800"/> 
+
+<img src="https://bairesdev.mo.cloudinary.net/blog/2023/06/Is-Python-good-for-software-development.jpg?tx=w_1024,q_auto" alt="Python Developer Banner" width="100%"/> 
 
 ## 👋 About Me 
 
-Greetings! I am **Mario**, a dedicated software engineer with a strong focus on **Python**. My journey in software development is driven by a passion for learning and tackling complex problems. Below, you'll find a showcase of my projects, course completions, and certifications from SoftUni.
+Hello! I'm **Mario**, a passionate **software engineer** with a knack for problem-solving and writing efficient code. My focus is primarily on **Python** and **PostgreSQL**, and I love contributing to exciting projects. I'm constantly learning, growing, and sharing knowledge.
 
 ---
 
@@ -13,6 +13,9 @@ Greetings! I am **Mario**, a dedicated software engineer with a strong focus on 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
 </p>
 
 ---
@@ -46,3 +49,8 @@ Greetings! I am **Mario**, a dedicated software engineer with a strong focus on 
 | [PostgreSQL](https://softuni.bg/trainings/4536/postgresql-may-2024)                                                      | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/216977/9f479593) |
 | [Python ORM](https://softuni.bg/trainings/4547/python-orm-june-2024)                                                     | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/certificates/converttoimage/221368?code=303b0635) |
 
+---
+
+## 📜 License
+
+This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
