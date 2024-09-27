@@ -1,4 +1,5 @@
 # Welcome to Mario's GitHub Repository! 🚀
+Code as much or as little, as long or as short as you feel. But code.
 
 <img src="https://i.imgur.com/INigeRD.png" alt="Futuristic Software Development Banner" width="800"/>
 
