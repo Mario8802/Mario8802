@@ -6,7 +6,7 @@
 
 # Hello! I'm **Mario** 👋  
 
-I'm an enthusiastic **software development student**, eager to solve problems and write efficient code. My primary focus is on learning **Python** and building a strong foundation in **web development** with **Django**, **HTML**, and **CSS**.  
+I'm an enthusiastic **software development student**, eager to solve problems and write efficient code. My primary focus is on learning **Python** and building a strong foundation in **web development** with **Django**, **JS**, **HTML**, and **CSS**.  
 
 I'm constantly learning and growing, taking small steps every day toward becoming a skilled developer. While I may not have all the answers yet, I'm always ready to explore and improve.  
 
