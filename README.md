@@ -4,7 +4,13 @@
 
 ## 👋 About Me 
 
-Hello! I'm **Mario**, a passionate **software engineer** with a knack for problem-solving and writing efficient code. My focus is primarily on **Python**. I'm constantly learning, growing, and sharing knowledge.
+# Hello! I'm **Mario** 👋  
+
+I'm an enthusiastic **software development student**, eager to solve problems and write efficient code. My primary focus is on learning **Python** and building a strong foundation in **web development** with **Django**, **HTML**, and **CSS**.  
+
+I'm constantly learning and growing, taking small steps every day toward becoming a skilled developer. While I may not have all the answers yet, I'm always ready to explore and improve.  
+
+Feel free to check out my projects to see what I’m working on, and connect with me—I’d love to share knowledge and collaborate! 🚀  
 
 ---
 
