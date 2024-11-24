@@ -29,6 +29,9 @@ Feel free to check out my projects to see what I’m working on, and connect wit
 ## 🌐 Connect with Me
 
 <p align="left">
+  <a href="mailto:softuni.mario@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
   <a href="https://www.facebook.com/profile.php?id=100002633140775">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
