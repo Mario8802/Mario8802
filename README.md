@@ -1,4 +1,5 @@
 # Code as much or as little, as long or as short as you feel. But code! 🚀 
+HAPPY NEW 2025
 
 ![Banner Image](https://kvytechnology.com/wp-content/uploads/2024/05/image-2-2.jpg)
 
