@@ -58,6 +58,7 @@ Feel free to check out my projects to see what I’m working on, and connect wit
 | [OOP](https://softuni.bg/trainings/3964/python-oop-february-2023)                                                        | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/211544/0cc2562a) |
 | [PostgreSQL](https://softuni.bg/trainings/4536/postgresql-may-2024)                                                      | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/216977/9f479593) |
 | [Python ORM](https://softuni.bg/trainings/4547/python-orm-june-2024)                                                     | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/certificates/converttoimage/221368?code=303b0635) |
+| [Python Web](https://softuni.bg/modules/139/python-web/1500)                                                             | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/certificates/converttoimage/233243?code=de7b80fb)
 
 ---
 
