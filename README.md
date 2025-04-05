@@ -66,7 +66,7 @@ Feel free to check out my projects to see what I’m working on, and connect wit
 | [Python ORM](https://softuni.bg/trainings/4547/python-orm-june-2024)                                                       | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/certificates/converttoimage/221368?code=303b0635) |
 | [Python Web](https://softuni.bg/modules/139/python-web/1500)                                                               | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/certificates/converttoimage/233243?code=de7b80fb)
 |[HTML & CSS](https://softuni.bg/trainings/4849/html-css-january-2025)                                                       | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/237841/27e52095)
-|[HTML & CSS](https://softuni.bg/trainings/4909/introduction-to-cyber-security-february-2025)                                                       | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/240872/8c7b672c)
+|[Introduction to Cyber Security](https://softuni.bg/trainings/4909/introduction-to-cyber-security-february-2025)                                                       | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/240872/8c7b672c)
 
 
 
