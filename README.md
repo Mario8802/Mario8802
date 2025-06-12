@@ -68,7 +68,7 @@ Feel free to check out my projects to see what I’m working on, and connect wit
 |[HTML & CSS](https://softuni.bg/trainings/4849/html-css-january-2025)                                                       | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/237841/27e52095)
 |[Introduction to Cyber Security](https://softuni.bg/trainings/4909/introduction-to-cyber-security-february-2025)           | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/240872/8c7b672c)
 
-|[Reconnaissance Fundamentals]https://softuni.bg/trainings/4910/reconnaissance-fundamentals-april-2025)           | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/244317/bee020f9)
+|[Reconnaissance Fundamentals](https://softuni.bg/trainings/4910/reconnaissance-fundamentals-april-2025)           | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/244317/bee020f9)
 
 
 
