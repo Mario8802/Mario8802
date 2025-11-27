@@ -69,7 +69,8 @@ Feel free to check out my projects to see what I’m working on, and connect wit
 |[Software Engineering and DevOps](https://softuni.bg/trainings/4961/software-engineering-and-devops-may-2025)                                                       | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/246130/e9fa633a)
 | [Introduction to Cyber Security](https://softuni.bg/trainings/4909/introduction-to-cyber-security-february-2025)             | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/240872/8c7b672c) |
 | [Reconnaissance Fundamentals](https://softuni.bg/trainings/4910/reconnaissance-fundamentals-april-2025)                     | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/244317/bee020f9) |
-
+| [System and Network Compromising](https://softuni.bg/trainings/4911/system-and-network-compromising-june-2025#lesson-87771)                     | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/certificates/details/249932/5454348a) |  
+| [Compromising Platforms](https://softuni.bg/trainings/4912/compromising-platforms-september-2025#lesson-87801)             | [![Certificate](https://img.shields.io/badge/View-Certificate-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white)](https://softuni.bg/users/profile/certificates?username=Mario1103) |
 
 ---
 
