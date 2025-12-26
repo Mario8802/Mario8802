@@ -46,7 +46,6 @@ Feel free to check out my projects to see what I’m working on, and connect wit
 
 ---
 
-## 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mario8802&theme=transparent&show_icons=true&count_private=true" alt="GitHub Stats"/>
