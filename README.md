@@ -5,7 +5,7 @@
  
 ## About Me 
 
-# Hello! I'm **Mario** 👋  
+# Hello! I'm **Mario**   
 
 I'm an enthusiastic **software development student**, eager to solve problems and write efficient code. My primary focus is on learning **Python** and building a strong foundation in **web development** with **Django**, **JS**, **HTML**, and **CSS**.  
 
@@ -15,7 +15,7 @@ Feel free to check out my projects to see what I’m working on, and connect wit
 
 ---
 
-## 🛠 Technologies & Tools
+##  Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
@@ -33,7 +33,7 @@ Feel free to check out my projects to see what I’m working on, and connect wit
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="mailto:softuni.mario@gmail.com">
@@ -44,7 +44,7 @@ Feel free to check out my projects to see what I’m working on, and connect wit
   </a>
 </p>
 
-## 🏆 Certificates
+##  Certificates
 
 | **Course**                                                                                                                 | **Certificate**                                                   |
 | -------------------------------------------------------------------------------------------------------------------------  | ---------------------------------------------------------- |
@@ -64,6 +64,6 @@ Feel free to check out my projects to see what I’m working on, and connect wit
 
 ---
 
-## 📜 License
+##  License
 
 This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
